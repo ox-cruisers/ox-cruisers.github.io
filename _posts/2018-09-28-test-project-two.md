@@ -1,6 +1,7 @@
 ---
 title: Tjalk Project - Raising and lengthen cabin
-category: []
+category:
+- Welding
 image: "/uploads/263.JPG"
 
 ---
