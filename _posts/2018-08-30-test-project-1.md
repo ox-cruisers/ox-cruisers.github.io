@@ -1,8 +1,7 @@
 ---
 title: Narrow Boat Progress
 date: 2018-08-30 14:18:13 +0000
-category:
-- Sandblasting
+category: []
 image: "/uploads/progress.jpeg"
 
 ---
