@@ -1,6 +1,7 @@
 ---
-title: Tjalk Project - Raising and lengthen cabin
-category: []
+title: 'Raise and Lengthen Cabin: Tjalk Project'
+category:
+- Welding
 image: "/uploads/263.JPG"
 
 ---
@@ -10,7 +11,8 @@ image: "/uploads/263.JPG"
 
 _Cabin braced and strengthened prior to cutting. The cabin was raised 25cm._
 
-_![](/uploads/248-1.JPG)
+  
+![](/uploads/248-1.JPG)
 
 New steel cut and welded in.
 
