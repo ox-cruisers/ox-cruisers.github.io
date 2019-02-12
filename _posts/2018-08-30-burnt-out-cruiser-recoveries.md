@@ -1,15 +1,15 @@
 ---
-title: Metal Works
+title: Abandoned Cruiser Recovery
 date: 2018-08-30 14:27:34 +0000
 category:
-- metals
-image: "/uploads/IMG_0318.jpg"
+- recoveries
+image: "/uploads/IMG_1699.jpg"
 
 ---
-Carbide off to float on the river Avon:
+# Abandoned Cruiser Recovery
 
-![](/uploads/IMG_0323.jpg)
+Sunk and abandoned cruiser recovery:
 
-And Tungsten:
+![](/uploads/IMG_1698.jpg)
 
-![](/uploads/IMG_0318.jpg)
+![](/uploads/IMG_1699.jpg)
