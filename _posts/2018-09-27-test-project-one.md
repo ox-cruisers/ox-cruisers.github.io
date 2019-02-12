@@ -2,7 +2,7 @@
 title: Welding to Environment Agency Tug
 category:
 - welding
-image: "/uploads/112.JPG"
+image: "/uploads/tugFT.png"
 
 ---
 # Welding to Environment Agency Tug
