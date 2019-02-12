@@ -8,7 +8,7 @@ image: "/uploads/IMG_0318.jpg"
 ---
 # Metal Works
 
-Carbide off to float on the River Avon:
+Carbide off to float on the river Avon:
 
 ![](/uploads/IMG_0323.jpg)
 
