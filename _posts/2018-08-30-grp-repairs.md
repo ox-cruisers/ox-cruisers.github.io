@@ -3,7 +3,7 @@ title: Rotten Metal Repair
 date: 2018-08-30 14:27:34 +0000
 category:
 - welding
-image: "/uploads/IMG_0691.jpg"
+image: "/uploads/rottenmetalFT.png"
 
 ---
 # Rotten Metal Repair
