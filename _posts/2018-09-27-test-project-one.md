@@ -1,5 +1,5 @@
 ---
-title: Welding to Environment Agency tug.
+title: Welding to Environment Agency Tug
 category:
 - welding
 - painting
