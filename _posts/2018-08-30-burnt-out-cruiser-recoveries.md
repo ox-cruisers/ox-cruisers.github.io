@@ -13,5 +13,3 @@ Sunk and abandoned cruiser recovery:
 ![](/uploads/IMG_1698.jpg)
 
 ![](/uploads/IMG_1699.jpg)
-
-_
