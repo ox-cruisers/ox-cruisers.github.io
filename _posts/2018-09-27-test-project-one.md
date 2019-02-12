@@ -2,7 +2,6 @@
 title: Welding to Environment Agency Tug
 category:
 - welding
-- painting
 image: "/uploads/112.JPG"
 
 ---
