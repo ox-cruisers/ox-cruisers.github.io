@@ -1,33 +1,17 @@
 ---
-title: Environment Agency Hand Rails
+title: Metal Works
 date: 2018-08-30 14:27:34 +0000
 category:
-- welding
-image: "/uploads/handrailsFT.png"
+- metals
+image: "/uploads/metalworkFT.png"
 
 ---
-# Environment Agency Hand Rails
+# Metal Works
 
-Hand rails for Environment Agency:
+Carbide off to float on the river Avon:
 
-![](/uploads/IMG_0804.jpg)
+![](/uploads/IMG_0323.jpg)
 
-![](/uploads/IMG_0805.jpg)
+And Tungsten:
 
-![](/uploads/IMG_0819.jpg)
-
-And another EA hand rail project:
-
-![](/uploads/IMG_0815.jpg)
-
-And another:
-
-![](/uploads/IMG_0865.jpg)
-
-![](/uploads/IMG_0866.jpg)
-
-And another:
-
-![](/uploads/IMG_0975.jpg)
-
-![](/uploads/IMG_0974.jpg)
+![](/uploads/IMG_0318.jpg)
