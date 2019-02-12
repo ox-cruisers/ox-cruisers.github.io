@@ -6,6 +6,8 @@ category:
 image: "/uploads/a12c40b1-.jpg"
 
 ---
+# Burnt Out Cruiser Recoveries
+
 Two burnt out cruisers recovered from keystone mill marina on the river Avon, February 2018.
 
 ![](/uploads/a12c40b1-.jpg)
