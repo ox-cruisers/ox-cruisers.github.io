@@ -6,6 +6,8 @@ category:
 image: "/uploads/progress.jpeg"
 
 ---
+# Narrow Boat: Progress
+
 Sandblast and over plate base plate.
 
 ![](/uploads/239-1.JPG)
