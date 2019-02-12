@@ -2,7 +2,7 @@
 title: 'Raise and Lengthen Cabin: Tjalk Project'
 category:
 - welding
-image: ''
+image: tjalkFT.png
 
 ---
 # Raise and Lengthen Cabin: Tjalk Project
