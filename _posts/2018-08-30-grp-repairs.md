@@ -12,7 +12,9 @@ Rotten gas lock repair:
 
 ![](/uploads/IMG_0657.jpg)
 
-![](/uploads/2.jpg)![](/uploads/3.jpg)
+![](/uploads/2.jpg)
+
+![](/uploads/3.jpg)
 
 Sandblasted and rotten metal cut out:
 
