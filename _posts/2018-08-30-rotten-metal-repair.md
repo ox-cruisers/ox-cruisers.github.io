@@ -3,7 +3,7 @@ title: Burnt Out Cruiser Recoveries
 date: 2018-08-30 14:27:34 +0000
 category:
 - recoveries
-image: "/uploads/a12c40b1-.jpg"
+image: "/uploads/burntrecoveryFT.png"
 
 ---
 # Burnt Out Cruiser Recoveries
