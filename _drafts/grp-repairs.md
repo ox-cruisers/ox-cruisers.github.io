@@ -1,13 +1,13 @@
 ---
-title: GRP Repairs
+title: Rotten Metal Repair
 date: 2018-08-30 14:27:34 +0000
 category:
-- GRP Repairs
-image: "/uploads/333.JPG"
+- welding
+image: "/uploads/IMG_0691.jpg"
 
 ---
-**Like New:**
+Rotten gas lock repair:
 
-![](/uploads/333-1.JPG)
+![](/uploads/IMG_0657.jpg)
 
-![](/uploads/342.JPG)
+![](/uploads/2.jpg)
