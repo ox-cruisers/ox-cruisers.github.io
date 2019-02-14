@@ -1,5 +1,5 @@
 ---
-title: Sunken Cruiser Recovery
+title: Sunken Cruiser at Osney Weir
 date: 2018-08-30 14:27:34 +0000
 category:
 - recoveries
