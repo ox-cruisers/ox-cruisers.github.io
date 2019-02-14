@@ -1,17 +1,15 @@
 ---
-title: Metal Works
+title: Sunken Narrowboat Recovery
 date: 2018-08-30 14:27:34 +0000
 category:
-- metals
-image: "/uploads/metalworkFT.png"
+- recoveries
+image: "/uploads/photo5.png"
 
 ---
-# Metal Works
+# Removing Sunken Boat from Godstow Bridge
 
-Carbide off to float on the river Avon:
+![](/uploads/Godstow v Longboat 027.jpg)
 
-![](/uploads/IMG_0323.jpg)
+![](/uploads/photo3.JPG)
 
-And Tungsten:
-
-![](/uploads/IMG_0318.jpg)
+![](/uploads/photo5.JPG)
