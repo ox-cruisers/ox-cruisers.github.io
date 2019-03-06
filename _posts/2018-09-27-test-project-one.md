@@ -1,12 +1,13 @@
 ---
-title: Welding to Environment Agency tug.
+title: Welding to Environment Agency Tug
 category:
 - welding
-- painting
-image: "/uploads/112.JPG"
+image: "/uploads/tugFT.png"
 
 ---
-#### **Sandblast and re-bottom craft.**
+# Welding to Environment Agency Tug
+
+Sandblast and re-bottom craft.
 
 ![](/uploads/003.JPG)
 

@@ -1,16 +1,19 @@
 ---
-title: Tjalk Project - Raising and lengthen cabin
-category: []
-image: "/uploads/263.JPG"
+title: 'Raise and Lengthen Cabin: Tjalk Project'
+category:
+- welding
+image: "/uploads/tjalkFT.png"
 
 ---
-#### As on George Clarke's Amazing Spaces
+# Raise and Lengthen Cabin: Tjalk Project
+
+#### _As seen on George Clarke's Amazing Spaces_
 
 ![](/uploads/239.JPG)
 
 _Cabin braced and strengthened prior to cutting. The cabin was raised 25cm._
 
-_![](/uploads/248-1.JPG)
+![](/uploads/248-1.JPG)
 
 New steel cut and welded in.
 
