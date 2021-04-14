@@ -7,6 +7,8 @@ category:
 image: "/uploads/cruisers1-2.png"
 
 ---
+# **Example Boat Project**
+
 This is a boat we did some **cool stuff** to:
 
 We did the _following_:
