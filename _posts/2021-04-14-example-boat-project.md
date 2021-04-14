@@ -13,7 +13,7 @@ This is a boat we did some **cool stuff** to:
 
 We did the _following_:
 
-* [Salvaged it](oxfordcruisers.com "Salvaged it")
+* Salvaged it
 * did some welding
 * painted the outside
 
