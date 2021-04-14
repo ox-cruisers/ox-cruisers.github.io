@@ -2,6 +2,7 @@
 title: This is a new test post
 category:
 - Metals
+- metals
 image: "/uploads/progress.jpeg"
 
 ---
